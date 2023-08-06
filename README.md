@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjindol&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjindol&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjindol&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjindol&layout=compact&theme=vue)
 
 
 
